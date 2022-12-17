@@ -1,0 +1,1 @@
+invert = array => array.map(x => -x) 
