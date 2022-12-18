@@ -1,0 +1,1 @@
+numbers.map(x => x * x).reduce((prev,curr) => prev+ curr, 0)
